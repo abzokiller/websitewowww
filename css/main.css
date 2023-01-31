@@ -263,11 +263,21 @@ Primary use:
   font-family: Montserrat-Bold;
   font-size: 50px;
   color: #fff;
-  line-height: 1.1;
+  line-height: 0;
   text-transform: uppercase;
   letter-spacing: 10px;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 2px;
 }
-
+.l2-txt2 {
+  font-family: Montserrat-Bold;
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+  line-height: 0;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  -webkit-text-stroke-width: 2px;
+}
 
 /*==================================================================
    SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
