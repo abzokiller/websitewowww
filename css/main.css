@@ -283,6 +283,7 @@
 	text-transform:uppercase;
 	overflow:hidden;
 	transition:1s all ease;
+	border-radius: 20px;
 }
 
 .btn::before{
