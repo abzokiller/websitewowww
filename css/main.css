@@ -278,19 +278,14 @@ Primary use:
   letter-spacing: 10px;
   -webkit-text-stroke-width: 2px;
 }
-.middle{
-	position:absolute;
-	top:50%;
-	left:50%;
-	transform:translate(-50%,-50%);
-}
+
 
 .btn{
 	position:relative;
 	display:block;
 	color:black;
 	font-size:14px;
-	font-family:"montserrat";
+	font-family:"Montserrat-Bold";
 	text-decoration:none;
 	margin: 30px 0;
 	border:2px solid #F67280;
